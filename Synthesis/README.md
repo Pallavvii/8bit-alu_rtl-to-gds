@@ -46,6 +46,13 @@ The following screenshots are provided as proof of successful synthesis:
 ![Yosys Netlist Statistics](stats.png)
 
 
+##  Gate-Level Netlist Visualization
+
+The following image shows a visual representation of the synthesized **gate-level netlist**, illustrating the logical structure generated after RTL synthesis using Yosys.
+
+![Gate-Level Netlist Visualization](visual_netlist.png)
+
+
 ## Outcome
 
 - RTL successfully synthesized into a generic gate-level netlist
