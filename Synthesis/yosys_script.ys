@@ -1,0 +1,5 @@
+# Yosys synthesis script for 8-bit ALU
+
+read_verilog ALU_8bit.v
+synth -top ALU_8bit
+write_verilog alu_netlist.v
